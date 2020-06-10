@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rishab-sharma.github.io/">
-    <img alt="Gatsby" src="./src/static/logo_noalpha.svg" width="100" />
+    <img alt="Gatsby" src="./src/static/logo.png" width="100" />
     <h2 align="center">Rishab Sharma</h2>
   </a>
 </p> 
