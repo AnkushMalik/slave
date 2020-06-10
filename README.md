@@ -10,7 +10,7 @@
 ![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Frishab-sharma.github.io)
 
 
-![Rishab Sharma Site Preview](./src/static/screenshot.png)
+<!-- ![Rishab Sharma Site Preview](./src/static/screenshot.png) -->
 
 Strained eyes? There's DarkMode too :p
 
